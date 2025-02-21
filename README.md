@@ -116,7 +116,7 @@ GitHubのWeb UIから「Pull Request」を作成し、レビューを依頼し�
 - [GitHub Docs](https://docs.github.com/)
 
 ## 9. 課題
-このレポジトリに`feat/your_family_name`という、ブランチを作成して、以下の中身を記述したtxtfileをgithubにpushしてください。
+このレポジトリに`feat/your_family_name`という、ブランチを作成して、以下の中身を記述したtxtfileをgithubにpushしてください。Pull Requestを作って先輩に確認してもらってください。
 
 ```txt
 hello github
